@@ -14,14 +14,8 @@ Upon completion of this module, readers will...
 ## Getting started 
 To get started on this module, simply follow the commands listed in the <a href="./LEARNINGMODULE.ipynb"> <code>LEARNINGMODULE.ipynb</code> </a> file. All dependences and necessary catalogs can be installed by running the first cell, "Step 0. Step up." 
 
-## More information
-This module 
+## Teaching this module 
+This module is geared toward an introductory astrophysics student, with minimal, but not extensive coding knowledge. The idea behind this module is to allow an introductory student to draw comparisons between familiar and unfamiliar concepts and use those comparisons to build understanding. 
 
-
-
-our motivation and goals for the module, for example: how could you see this being
-used in A117? How might a student apply this professionally?
-• how principles from learning design informed your thought process or decisions (draw-
-ing on the prompts from the homework or other research that you’ve done)
-• (only in the final submission) how feedback from your colleagues and/or how doing
-your colleagues’ modules impacted your final module
+The solutions this module are accessible <a href ="./LEARNINGMODULE_SOLUTIONS.pdf"> here</a>.
+A rubric for grading this module is accessible <a href ="./LEARNINGMODULE_RUBRIC.pdf"> here</a>.
