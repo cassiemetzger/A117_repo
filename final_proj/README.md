@@ -8,3 +8,6 @@ The learning module will...
 Upon completion of this module, readers will... 
 1. Have a conceptual understanding of the study of exoplanets and their host stars can inform our understanding of our galaxy and how our understanding of our galaxy can inform our understanding of exoplanets and their host stars;
 2. Be able to work through a simple data analysis process that takes reduced TESS data and outputs key qualities of a transiting exoplanet
+
+## Getting started 
+To get started on this module, simply follow the commands listed in the <a href="./LEARNINGMODULE.ipynb"> <code>LEARNINGMODULE.ipynb</code> </a> file. All dependences and necessary catalogs can be installed by running the first cell, "Step 0. Step up." 
